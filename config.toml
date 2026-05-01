@@ -1,0 +1,15 @@
+[exchange]
+port = 9000
+
+[trading]
+symbols         = ["EURUSD"]
+initial_balance = 1000000.0
+
+[risk]
+max_position_pct = 0.10
+max_drawdown_pct = 0.20
+max_open_trades  = 3
+
+[logging]
+level  = "info"
+format = "pretty"
