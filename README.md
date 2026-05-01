@@ -1,4 +1,4 @@
-# trading_engine_v2
+# LMAX Trading System
 
 A low-latency algorithmic trading engine written in Rust, built around the **LMAX Disruptor pattern**. This project is a systems programming learning exercise focused on understanding ring buffers, cache-line discipline, lock-free coordination, and real-time scheduling on Linux.
 
